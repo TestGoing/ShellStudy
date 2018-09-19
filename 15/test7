@@ -1,0 +1,4 @@
+ls: cannot access test: No such file or directory
+ls: cannot access badtest: No such file or directory
+-rw-r--r-- 1 root root 104 Aug  1 09:27 test2
+-rw-r--r-- 1 root root   0 Aug  1 09:28 test3
